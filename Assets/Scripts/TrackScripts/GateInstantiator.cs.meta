@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 602d5c12cf9d9404291bbd190b2d0a8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gatePrefab: {fileID: 553100108625005632, guid: 1b7eb84580d0c794dafb4687ba7e7134, type: 3}
+  - _gateVariantPrefab: {fileID: 5041111110644062872, guid: 1831830a56c17f04e900fd5efb72ea58, type: 3}
+  - _passPrefab: {fileID: 6505645329361526063, guid: 873bb827c4cab384391cd66612ad3f9e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
